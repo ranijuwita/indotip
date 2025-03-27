@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ranijuwita.github.io/indotip/sitemap.xml
